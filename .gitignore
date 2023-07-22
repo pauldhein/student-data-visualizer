@@ -130,7 +130,7 @@ dist
 .pnp.*
 
 # library packages
-*node_modules
+node_modules/
 
 # macOS files
 *.DS_Store
