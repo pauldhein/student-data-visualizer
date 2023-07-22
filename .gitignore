@@ -131,3 +131,6 @@ dist
 
 # library packages
 *node_modules
+
+# macOS files
+*.DS_Store
